@@ -30313,8 +30313,6 @@ cr.behaviors.rex_lunarray_Tween_mod = function(runtime)
 	};
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Audio,
-	cr.plugins_.MeiriqCommon_v2,
 	cr.plugins_.Browser,
 	cr.plugins_.MeiriqTvCommon_v2,
 	cr.plugins_.Function,
@@ -30322,9 +30320,11 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.LocalStorage,
 	cr.plugins_.NodeWebkit,
 	cr.plugins_.Rex_FSM,
+	cr.plugins_.Sprite,
 	cr.plugins_.Text,
 	cr.plugins_.Touch,
-	cr.plugins_.Sprite,
+	cr.plugins_.Audio,
+	cr.plugins_.MeiriqCommon_v2,
 	cr.behaviors.Pin,
 	cr.behaviors.Rex_MoveTo,
 	cr.behaviors.Sin,
