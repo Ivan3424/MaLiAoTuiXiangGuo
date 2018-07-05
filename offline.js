@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1530802356,
+	"version": 1530802974,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,7 @@
 		"images/comingsoon-sheet0.png",
 		"images/main-sheet0.png",
 		"media/button.ogg",
-		"media/bgm.ogg"
+		"media/bgm.ogg",
+		"loading-logo.png"
 	]
 }

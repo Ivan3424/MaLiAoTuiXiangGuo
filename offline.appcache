@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1530802356
+#1530802974
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -34,5 +34,6 @@ images/comingsoon-sheet0.png
 images/main-sheet0.png
 media/button.ogg
 media/bgm.ogg
+loading-logo.png
 NETWORK:
 *
